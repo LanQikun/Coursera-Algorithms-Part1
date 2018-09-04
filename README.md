@@ -1,4 +1,4 @@
-# Coursera: Algorithms
+# Coursera: Algorithms Part I
 Programming Assignments (Algorithms, Part I and II by Kevin Wayne, Robert Sedgewick)
 **You can get more details in https://www.coursera.org/learn/algorithms-part1**
 
